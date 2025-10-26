@@ -3,6 +3,4 @@ Mac Changer for MacOS
 
 Requires Administrator permission to change MAC Address.
 
-To use:
-
-python3 macchanger.py
+Features: Checks all interfaces automatic, manually change Mac Address, randomize mac address
